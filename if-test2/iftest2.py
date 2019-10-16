@@ -7,6 +7,9 @@
 
 ipchk=input("Apply an IP addres: ")
 if ipchk:
-    print("Looks like the IP address was set: " +ipchk)
+    print("Looks like the IP address was set to: " + ipchk)
+elif ipchk:
+    print("Looks like the IP addres was set: " + ipchk)
 else:
     print("You did not provide any input.")
+

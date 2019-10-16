@@ -1,0 +1,14 @@
+export OS_AUTH_URL=eila.sedigh.com
+export OS_IDENTIFY_API_VERSION=3
+export OS_PROJECT_NAME=Pregnancy
+export OS_PROJECT_DOMAIN_NAME=icm
+export OS_USERNAME=esedigh
+eport OS_USER_DOMAIN_NAME=local
+export OS_PASSWORD=password123
+export OS_AUTH_URL=http://controller:34357/v2/
+export OS_IDENTIFY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+eport OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
